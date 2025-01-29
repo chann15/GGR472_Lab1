@@ -1,0 +1,17 @@
+/*
+This CSS stylesheet is no longer being used - full reliance on styling within Bootstrap framework
+BUT CSS can be used to override and tweak current style if desired
+
+.heading {
+    background-color: aliceblue;
+    color: blueviolet;
+} 
+    
+*/
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
